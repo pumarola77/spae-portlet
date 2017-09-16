@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE display PUBLIC "-//Liferay//DTD Display 6.2.0//EN" "http://www.liferay.com/dtd/liferay-display_6_2_0.dtd">
+
+<display>
+	<category name="SPAE">
+		<portlet id="spae"></portlet>
+		<portlet id="activitats"></portlet>
+		<portlet id="metaactivitats"></portlet>
+		<portlet id="inscripcions"></portlet>
+		<portlet id="assistencia"></portlet>
+		<portlet id="inscripcionsActives"></portlet>
+		<portlet id="planificador"></portlet>
+	</category>
+</display>
